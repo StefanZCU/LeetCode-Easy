@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Two Sum", "01. Two Sum\01. Two Sum.csproj", "{D397FE5C-BB6F-46A3-9B72-52EFB71C08F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Two Sum", "01. Two Sum\01. Two Sum.csproj", "{D397FE5C-BB6F-46A3-9B72-52EFB71C08F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Palindrome Number", "09. Palindrome Number\09. Palindrome Number.csproj", "{6240327D-7BBF-415C-9200-D1399FC9A8E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09. Palindrome Number", "09. Palindrome Number\09. Palindrome Number.csproj", "{6240327D-7BBF-415C-9200-D1399FC9A8E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Roman to Integer", "13. Roman to Integer\13. Roman to Integer.csproj", "{003F50C5-3ED2-4468-AE92-101B0EC9422E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{6240327D-7BBF-415C-9200-D1399FC9A8E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6240327D-7BBF-415C-9200-D1399FC9A8E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6240327D-7BBF-415C-9200-D1399FC9A8E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{003F50C5-3ED2-4468-AE92-101B0EC9422E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{003F50C5-3ED2-4468-AE92-101B0EC9422E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{003F50C5-3ED2-4468-AE92-101B0EC9422E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{003F50C5-3ED2-4468-AE92-101B0EC9422E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
