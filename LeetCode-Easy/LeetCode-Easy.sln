@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "566. Reshape the Matrix", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1556. Thousand Seperator", "1556. Thousand Seperator\1556. Thousand Seperator.csproj", "{656D14FF-AFAC-4F0B-88B8-5FB5C9ECE03C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "88. Merge Sorted Array", "88. Merge Sorted Array\88. Merge Sorted Array.csproj", "{0F6B8DE5-DB62-4930-ABE1-254B6B28F0E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{656D14FF-AFAC-4F0B-88B8-5FB5C9ECE03C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{656D14FF-AFAC-4F0B-88B8-5FB5C9ECE03C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{656D14FF-AFAC-4F0B-88B8-5FB5C9ECE03C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F6B8DE5-DB62-4930-ABE1-254B6B28F0E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F6B8DE5-DB62-4930-ABE1-254B6B28F0E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F6B8DE5-DB62-4930-ABE1-254B6B28F0E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F6B8DE5-DB62-4930-ABE1-254B6B28F0E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
