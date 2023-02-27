@@ -3,33 +3,35 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Two Sum", "01. Two Sum\01. Two Sum.csproj", "{D397FE5C-BB6F-46A3-9B72-52EFB71C08F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0001. Two Sum", "0001. Two Sum\0001. Two Sum.csproj", "{D397FE5C-BB6F-46A3-9B72-52EFB71C08F6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09. Palindrome Number", "09. Palindrome Number\09. Palindrome Number.csproj", "{6240327D-7BBF-415C-9200-D1399FC9A8E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0009. Palindrome Number", "0009. Palindrome Number\0009. Palindrome Number.csproj", "{6240327D-7BBF-415C-9200-D1399FC9A8E7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13. Roman to Integer", "13. Roman to Integer\13. Roman to Integer.csproj", "{003F50C5-3ED2-4468-AE92-101B0EC9422E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0013. Roman to Integer", "0013. Roman to Integer\0013. Roman to Integer.csproj", "{003F50C5-3ED2-4468-AE92-101B0EC9422E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14. Longest Common Prefix", "14. Longest Common Prefix\14. Longest Common Prefix.csproj", "{1995387D-8931-44A3-8535-8B653559EABF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0014. Longest Common Prefix", "0014. Longest Common Prefix\0014. Longest Common Prefix.csproj", "{1995387D-8931-44A3-8535-8B653559EABF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20. Valid Parentheses", "20. Valid Parentheses\20. Valid Parentheses.csproj", "{6992EEBA-665D-4608-9B3F-6E3F4EC95228}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0020. Valid Parentheses", "0020. Valid Parentheses\0020. Valid Parentheses.csproj", "{6992EEBA-665D-4608-9B3F-6E3F4EC95228}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "35. Search Insert Position", "35. Search Insert Position\35. Search Insert Position.csproj", "{0008FA55-31A9-4DF3-B721-1B3AE86A08E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0035. Search Insert Position", "0035. Search Insert Position\0035. Search Insert Position.csproj", "{0008FA55-31A9-4DF3-B721-1B3AE86A08E9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26. Remove Duplicates from Sorted Array", "26. Remove Duplicates from Sorted Array\26. Remove Duplicates from Sorted Array.csproj", "{E9E4BEAB-C94B-4AEE-B358-1D259B5B6B96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0026. Remove Duplicates from Sorted Array", "0026. Remove Duplicates from Sorted Array\0026. Remove Duplicates from Sorted Array.csproj", "{E9E4BEAB-C94B-4AEE-B358-1D259B5B6B96}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "27. Remove Element", "27. Remove Element\27. Remove Element.csproj", "{BC55D118-C55B-4BD6-9D91-908FCD5B0E1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0027. Remove Element", "0027. Remove Element\0027. Remove Element.csproj", "{BC55D118-C55B-4BD6-9D91-908FCD5B0E1C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "58. Length of Last Word", "58. Length of Last Word\58. Length of Last Word.csproj", "{6D4CCBA2-0076-4173-A38E-D5E13AE574AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0058. Length of Last Word", "0058. Length of Last Word\0058. Length of Last Word.csproj", "{6D4CCBA2-0076-4173-A38E-D5E13AE574AC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "67. Add Binary", "67. Add Binary\67. Add Binary.csproj", "{49168DE3-B012-4F96-B9E1-B5C6394827F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0067. Add Binary", "0067. Add Binary\0067. Add Binary.csproj", "{49168DE3-B012-4F96-B9E1-B5C6394827F0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "463. Island Perimeter", "463. Island Perimeter\463. Island Perimeter.csproj", "{E6D5C09F-7E32-465E-979F-26B69427D51D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0463. Island Perimeter", "0463. Island Perimeter\0463. Island Perimeter.csproj", "{E6D5C09F-7E32-465E-979F-26B69427D51D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "566. Reshape the Matrix", "566. Reshape the Matrix\566. Reshape the Matrix.csproj", "{5826E7D8-16D1-44B0-AE88-A1942C9AE71C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0566. Reshape the Matrix", "0566. Reshape the Matrix\0566. Reshape the Matrix.csproj", "{5826E7D8-16D1-44B0-AE88-A1942C9AE71C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1556. Thousand Seperator", "1556. Thousand Seperator\1556. Thousand Seperator.csproj", "{656D14FF-AFAC-4F0B-88B8-5FB5C9ECE03C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1556. Thousand Seperator", "1556. Thousand Seperator\1556. Thousand Seperator.csproj", "{656D14FF-AFAC-4F0B-88B8-5FB5C9ECE03C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "88. Merge Sorted Array", "88. Merge Sorted Array\88. Merge Sorted Array.csproj", "{0F6B8DE5-DB62-4930-ABE1-254B6B28F0E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0088. Merge Sorted Array", "0088. Merge Sorted Array\0088. Merge Sorted Array.csproj", "{0F6B8DE5-DB62-4930-ABE1-254B6B28F0E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1480. Running Sum of 1d Array", "1480. Running Sum of 1d Array\1480. Running Sum of 1d Array.csproj", "{4D9B74F9-93F6-453A-900D-3F5A8B26624D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{0F6B8DE5-DB62-4930-ABE1-254B6B28F0E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F6B8DE5-DB62-4930-ABE1-254B6B28F0E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F6B8DE5-DB62-4930-ABE1-254B6B28F0E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D9B74F9-93F6-453A-900D-3F5A8B26624D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D9B74F9-93F6-453A-900D-3F5A8B26624D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D9B74F9-93F6-453A-900D-3F5A8B26624D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D9B74F9-93F6-453A-900D-3F5A8B26624D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
