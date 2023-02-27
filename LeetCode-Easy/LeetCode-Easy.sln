@@ -31,7 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1556. Thousand Seperator", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0088. Merge Sorted Array", "0088. Merge Sorted Array\0088. Merge Sorted Array.csproj", "{0F6B8DE5-DB62-4930-ABE1-254B6B28F0E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1480. Running Sum of 1d Array", "1480. Running Sum of 1d Array\1480. Running Sum of 1d Array.csproj", "{4D9B74F9-93F6-453A-900D-3F5A8B26624D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1480. Running Sum of 1d Array", "1480. Running Sum of 1d Array\1480. Running Sum of 1d Array.csproj", "{4D9B74F9-93F6-453A-900D-3F5A8B26624D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0724. Find Pivot Index", "0724. Find Pivot Index\0724. Find Pivot Index.csproj", "{9C001B0A-7D29-4ECB-87E5-3AC2D34D1589}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{4D9B74F9-93F6-453A-900D-3F5A8B26624D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D9B74F9-93F6-453A-900D-3F5A8B26624D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D9B74F9-93F6-453A-900D-3F5A8B26624D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C001B0A-7D29-4ECB-87E5-3AC2D34D1589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C001B0A-7D29-4ECB-87E5-3AC2D34D1589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C001B0A-7D29-4ECB-87E5-3AC2D34D1589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C001B0A-7D29-4ECB-87E5-3AC2D34D1589}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
