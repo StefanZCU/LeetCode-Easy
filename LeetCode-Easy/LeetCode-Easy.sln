@@ -33,9 +33,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0088. Merge Sorted Array", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1480. Running Sum of 1d Array", "1480. Running Sum of 1d Array\1480. Running Sum of 1d Array.csproj", "{4D9B74F9-93F6-453A-900D-3F5A8B26624D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0724. Find Pivot Index", "0724. Find Pivot Index\0724. Find Pivot Index.csproj", "{9C001B0A-7D29-4ECB-87E5-3AC2D34D1589}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0724. Find Pivot Index", "0724. Find Pivot Index\0724. Find Pivot Index.csproj", "{9C001B0A-7D29-4ECB-87E5-3AC2D34D1589}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0205. Isomorphic Strings", "0205. Isomorphic Strings\0205. Isomorphic Strings.csproj", "{536AB080-B9AD-447D-A17B-42DD7F6CFE99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0205. Isomorphic Strings", "0205. Isomorphic Strings\0205. Isomorphic Strings.csproj", "{536AB080-B9AD-447D-A17B-42DD7F6CFE99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0392. Is Subsequence", "0392. Is Subsequence\0392. Is Subsequence.csproj", "{0E56B204-C218-41F1-9975-E2A6AE59BD57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{536AB080-B9AD-447D-A17B-42DD7F6CFE99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{536AB080-B9AD-447D-A17B-42DD7F6CFE99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{536AB080-B9AD-447D-A17B-42DD7F6CFE99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E56B204-C218-41F1-9975-E2A6AE59BD57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E56B204-C218-41F1-9975-E2A6AE59BD57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E56B204-C218-41F1-9975-E2A6AE59BD57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E56B204-C218-41F1-9975-E2A6AE59BD57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
